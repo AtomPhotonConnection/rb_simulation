@@ -195,4 +195,4 @@ I always wanted to modularise this for different atomic species but never got ro
 
 Jan Ole Ernst et al 2023 J. Phys. B: At. Mol. Opt. Phys. **56** 205003
 
-Jan Ole Ernst. *Controlling Quantum Systems at the Pulse Level: Cavity QED & Beyond*. 2025. PhD Thesis (forthcoming). University of Oxford
+Jan Ole Ernst. *Controlling Quantum Systems at the Pulse Level: Cavity QED & Beyond*. 2025. PhD Thesis. https://ora.ox.ac.uk/objects/uuid:b8d876c2-764b-4c9b-b00b-f133a34f3d5b. University of Oxford
